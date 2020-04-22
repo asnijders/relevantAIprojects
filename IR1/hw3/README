@@ -1,0 +1,17 @@
+Authors
+- Puck de Haan
+- Tim van Loenhout
+- Ard Snijders
+
+Own contributions
+- pointwise.py
+Iplements the pointwise LTR model
+- pairwise.py
+Implements the regular Ranknet and sped-up Ranknet model.
+- listwise.py
+Implements the Lambdarank model.
+
+Instructions
+- First run dataset.py to retrieve necessary data.
+- All three files can be executed without arguments for a default run. All 
+extra parameters are explained in the bottom of the file. 
