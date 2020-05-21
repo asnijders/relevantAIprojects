@@ -20,6 +20,6 @@ In the folder ```CV1_labs``` you can find two lab reports to which I contributed
 
 In the folder ```IR1``` you can find two programming assignments w/ corresponding reports to which I've contributed, for the AI course Information Retrieval 1, for which we received a combined grade of 9.3
 
-In the folder ```NLP-1``` you can find two programming assignments, plus a report, which I collaborated on with another student, for the AI course Natural Language Processing 1, for wich we received a grade of 8
+In the folder ```NLP-1``` you can find two programming assignments, plus a report, which I collaborated on with another student, for the AI course Natural Language Processing 1, for wich we received a grade of 8.2
 
 In the folder ```CDM``` you'll find a selection of short assignments and a paper review, which I wrote for the ongoing AI/Logic course Computational Dialogue Modelling, for which I received a (combined) grade of 8.4
