@@ -14,7 +14,7 @@ Files:
 
 # Project Descriptions
 
-In the folder ```ATCS-Practical1-ArdSnijders``` you can find an individual programming assignment I worked on for the advanced AI course Advanced Topics in Computational Semantics, for which I received a grade of 8.5
+In the folder ```ATCS-Practical1-ArdSnijders``` you can find an individual programming assignment I worked on for the advanced AI course Advanced Topics in Computational Semantics, for which I received a grade of 8.5. There's also a poster for the course research project, which was voted as the best-of-class poster :-)
 
 In the folder ```CV1_labs``` you can find two lab reports to which I contributed, for the AI course Computer Vision 1.
 
