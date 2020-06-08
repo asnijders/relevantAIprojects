@@ -2,7 +2,7 @@
 
 In this repository you can find a small portfolio of some of the AI projects I've worked on in courses from the past academic year. Some of these were group work, but there are also a handful of individual assignments. The goal of this portfolio is to provide some further proof of my past efforts in AI, in terms of programming, theoretical insights and technical writing.
 
-Files:
+Folder structure:
 
 ```
 	ATCS-Practical1-ArdSnijders
@@ -10,9 +10,12 @@ Files:
 	IR1
 	NLP-1
 	CDM
+	grades_ard_snijders.pdf
 ```
 
 # Project Descriptions
+
+In the file ```grades_ard_snijders.pdf``` you can see a copy of my (most recent) official grades. This gradelist also contains my final grade for information retrieval 1, and will be updated with course results from block 5 once they are entered into SIS.
 
 In the folder ```ATCS-Practical1-ArdSnijders``` you can find an individual programming assignment I worked on for the advanced AI course Advanced Topics in Computational Semantics, for which I received a grade of 8.5. There's also a poster for the course research project, which was voted as the best-of-class poster :-)
 
