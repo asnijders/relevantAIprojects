@@ -26,3 +26,6 @@ In the folder ```IR1``` you can find two programming assignments w/ correspondin
 In the folder ```NLP-1``` you can find two programming assignments, plus a report, which I collaborated on with another student, for the AI course Natural Language Processing 1, for wich we received a grade of 8.2
 
 In the folder ```CDM``` you'll find a paper review, which I wrote for the ongoing AI/Logic course Computational Dialogue Modelling, for which I received a grade of 8.5, and a group report for the main research project of the course, on which I collaborated (not yet graded).
+
+I've also made a repo so you can look at my (homew)work so far for the course Symbolic Systems 1, which I'm currently folliwing. you can access it at:
+[```symbsys```](https://github.com/asnijders/symbsys)
