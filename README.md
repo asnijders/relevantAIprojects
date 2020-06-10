@@ -27,5 +27,5 @@ In the folder [```NLP-1```](https://github.com/asnijders/relevantAIprojects/tree
 
 In the folder [```CDM```](https://github.com/asnijders/relevantAIprojects/tree/master/CDM) you'll find a paper review, which I wrote for the ongoing AI/Logic course Computational Dialogue Modelling, for which I received a grade of 8.5, and a group report for the main research project of the course, on which I collaborated (not yet graded).
 
-I've also made a repo so you can look at my (homew)work so far for the AI course Symbolic Systems 1, which I'm currently taking. you can access it at:
+I've also made a repo so you can look at my (homew)work so far for the AI course Symbolic Systems 1, which I'm currently taking. You can access it at:
 [```symbsys```](https://github.com/asnijders/symbsys)
