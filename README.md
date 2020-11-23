@@ -16,11 +16,11 @@ Folder structure:
 # Project Descriptions
 In the folder [```Advanced Topics in Computational Semantics```](https://github.com/asnijders/relevantAIprojects/tree/master/Advanced%20Topics%20in%20Computational%20Semantics) you can find an individual programming assignment I worked on for the advanced AI course Advanced Topics in Computational Semantics. Final course grade: 9.
 
-In the folder [```Computer Vision 1```](https://github.com/asnijders/relevantAIprojects/tree/master/Computer%20Vision%201) you can find two lab reports to which I contributed, for the AI course Computer Vision 1. Final course grade: 9.
+In the folder [```Computer Vision 1```](https://github.com/asnijders/relevantAIprojects/tree/master/Computer%20Vision%201) you can find six lab reports to which I contributed, for the AI course Computer Vision 1. Final course grade: 9.
 
 In the folder [```Information Retrieval 1```](https://github.com/asnijders/relevantAIprojects/tree/master/Information%20Retrieval%201) you can find two programming assignments w/ corresponding reports to which I've contributed, for the AI course Information Retrieval 1. Final course grade: 8.
 
-In the folder [```Deep Learning```](https://github.com/asnijders/relevantAIprojects/tree/master/Deep%20Learning) you can find two solo reports for the AI course Deep Learning.
+In the folder [```Deep Learning```](https://github.com/asnijders/relevantAIprojects/tree/master/Deep%20Learning) you can find two solo reports for the AI course Deep Learning (ongoing).
 
 In the folder [```Symbolic Systems 1```](https://github.com/asnijders/relevantAIprojects/tree/master/Symbolic%20Systems%201) you can find two solo reports for the AI course Symbolic Systems 1. Final course grade: 8.5
 
