@@ -34,7 +34,6 @@ In the folder [```Computational Dialogue Modelling```](https://github.com/asnijd
 # MSc Information Studies
 
 * Applied Machine Learning: 7,5	
-
 * Big Data: 8,0	
 
 Data Systems Project: 8,5	
