@@ -29,24 +29,24 @@ In the folder [```Natural Language Processing 1```](https://github.com/asnijders
 
 In the folder [```Computational Dialogue Modelling```](https://github.com/asnijders/relevantAIprojects/tree/master/Computational%20Dialogue%20Modelling) you'll find a paper review, which I wrote for the ongoing AI/Logic course Computational Dialogue Modelling, for which I received a grade of 8.5, and a group report for the main research project of the course, for which we received a 9.
 
-# Grades (23/11/2020)
+# Grade list (23/11/2020)
 
-# MSc Information Studies
+# MSc: Artificial Intelligence
 
-* Applied Machine Learning: 7,5	
-* Big Data: 8,0	
-* Data Systems Project: 8,5	
-* Fundamentals of Data Science: 7,5	
-* Statistics, Simulation and Optimization: 8,0
-* Advanced Topics in Computational Semantics (elective): 9,0
-* Computational Dialogue Modelling (elective): 9,0
-
-# MSc Artificial Intelligence
-
-* Machine Learning 1: 7,5	
-* Computer Vision 1: 9,0
-* Natural Language Processing 1: 7,0
-* Information Retrieval 1: 8,0		
+* Machine Learning 1: 7.5	
+* Computer Vision 1: 9.0
+* Natural Language Processing 1: 7.0
+* Information Retrieval 1: 8.0		
 * Symbolic Systems 1: 8.5
-* Advanced Topics in Computational Semantics: 9,0	
-* Computational Dialogue Modelling: 9,0		
+* Advanced Topics in Computational Semantics: 9.0	
+* Computational Dialogue Modelling: 9.0	
+
+# MSc: Information Studies
+
+* Applied Machine Learning: 7.5	
+* Big Data: 8.0	
+* Data Systems Project: 8.5	
+* Fundamentals of Data Science: 7.5	
+* Statistics, Simulation and Optimization: 8.0
+* Advanced Topics in Computational Semantics (elective): 9.0
+* Computational Dialogue Modelling (elective): 9.0	
