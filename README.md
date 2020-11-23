@@ -1,6 +1,6 @@
 # Relevant AI Projects - Ard Snijders
 
-In this repository you can find a small portfolio of some of the AI projects I've worked on in courses from the past academic year. Some of these were group work, but there are also a handful of individual assignments. The goal of this portfolio is to provide some further proof of my past efforts in AI, in terms of programming, theoretical insights and technical writing.
+In this repository you can find a small portfolio of some of the AI projects I've worked on in courses from the past academic year. Some of these were group work, but there are also a handful of individual assignments. The purpose of this repository is to provide an overview of my AI skillset, covering programming ability, technical writing, and domain-specific knowledge related to Machine Learning, Deep Learning, Natural Language Processing, Computer Vision, and more.
 
 Folder structure:
 
