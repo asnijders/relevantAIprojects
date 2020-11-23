@@ -14,18 +14,16 @@ Folder structure:
 ```
 
 # Project Descriptions
+In the folder [```Advanced Topics in Computational Semantics```](https://github.com/asnijders/relevantAIprojects/tree/master/Advanced%20Topics%20in%20Computational%20Semantics) you can find an individual programming assignment I worked on for the advanced AI course Advanced Topics in Computational Semantics. Final course grade: 9.
 
-In [```grades_ard_snijders.pdf```](https://github.com/asnijders/relevantAIprojects/blob/master/grades_ard_snijders.pdf) you can see a copy of my (most recent) official grades. This gradelist also contains my final grade for information retrieval 1, and will be updated with course results from block 5 once they are entered into SIS.
+In the folder [```Computer Vision 1```](https://github.com/asnijders/relevantAIprojects/tree/master/Computer%20Vision%201) you can find two lab reports to which I contributed, for the AI course Computer Vision 1. Final course grade: 9.
 
-In the folder [```ATCS-Practical1-ArdSnijders```](https://github.com/asnijders/relevantAIprojects/tree/master/ATCS-Practical1-ArdSnijders) you can find an individual programming assignment I worked on for the advanced AI course Advanced Topics in Computational Semantics, for which I received a grade of 8.5. There's also a poster for the course research project, which was voted as the best-of-class poster :-)
+In the folder [```Information Retrieval 1```](https://github.com/asnijders/relevantAIprojects/tree/master/Information%20Retrieval%201) you can find two programming assignments w/ corresponding reports to which I've contributed, for the AI course Information Retrieval 1. Final course grade: 8.
 
-In the folder [```CV1_labs```](https://github.com/asnijders/relevantAIprojects/tree/master/CV1_labs) you can find two lab reports to which I contributed, for the AI course Computer Vision 1.
+In the folder [```Deep Learning```](https://github.com/asnijders/relevantAIprojects/tree/master/Deep%20Learning) you can find two solo reports for the AI course Deep Learning.
 
-In the folder [```IR1```](https://github.com/asnijders/relevantAIprojects/tree/master/IR1) you can find two programming assignments w/ corresponding reports to which I've contributed, for the AI course Information Retrieval 1, for which we received a combined grade of 9.3
+In the folder [```Symbolic Systems 1```](https://github.com/asnijders/relevantAIprojects/tree/master/Symbolic%20Systems%201) you can find two solo reports for the AI course Symbolic Systems 1. Final course grade: 8.5
 
-In the folder [```NLP-1```](https://github.com/asnijders/relevantAIprojects/tree/master/NLP-1) you can find two programming assignments, plus a report, which I collaborated on with another student, for the AI course Natural Language Processing 1, for wich we received a grade of 8.2
+In the folder [```Natural Language Processing 1```](https://github.com/asnijders/relevantAIprojects/tree/master/Natural%20Language%20Processing%201) you can find two programming assignments, plus a report, which I collaborated on with another student, for the AI course Natural Language Processing 1, for wich we received a grade of 8.2
 
-In the folder [```CDM```](https://github.com/asnijders/relevantAIprojects/tree/master/CDM) you'll find a paper review, which I wrote for the ongoing AI/Logic course Computational Dialogue Modelling, for which I received a grade of 8.5, and a group report for the main research project of the course, on which I collaborated (not yet graded).
-
-I've also made a repo so you can look at my (homew)work so far for the AI course Symbolic Systems 1, which I'm currently taking. You can access it at:
-[```symbsys```](https://github.com/asnijders/symbsys)
+In the folder [```Computational Dialogue Modelling```](https://github.com/asnijders/relevantAIprojects/tree/master/Computational%20Dialogue%20Modelling) you'll find a paper review, which I wrote for the ongoing AI/Logic course Computational Dialogue Modelling, for which I received a grade of 8.5, and a group report for the main research project of the course, for which we received a 9.
