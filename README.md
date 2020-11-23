@@ -5,12 +5,13 @@ In this repository you can find a small portfolio of some of the AI projects I'v
 Folder structure:
 
 ```
-	ATCS-Practical1-ArdSnijders
-	CV1_labs
-	IR1
-	NLP-1
-	CDM
-	grades_ard_snijders.pdf
+	Advanced Topics in Computational Semantics
+	Computer Vision 1
+	Information Retrieval 1
+	Deep Learning
+	Symbolic Systems 1
+	Natural Language Processing 1
+	Computational Dialogue Modelling
 ```
 
 # Project Descriptions
