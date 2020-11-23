@@ -1,8 +1,0 @@
-/datasets
-/processed_data
-/*.pkl
-/models
-/pickles
-/metrics
-/results/word2vec_trec.json
-/__pycache__

@@ -1,6 +1,0 @@
-/dataset
-/pickles
-/__MACOSX
-/__pycache__
-datasetbinarized_purged_querynorm.npz
-*.pyc
