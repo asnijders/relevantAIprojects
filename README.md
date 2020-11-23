@@ -35,25 +35,18 @@ In the folder [```Computational Dialogue Modelling```](https://github.com/asnijd
 
 * Applied Machine Learning: 7,5	
 * Big Data: 8,0	
-
-Data Systems Project: 8,5	
-
-Fundamentals of Data Science: 7,5	
-
-Statistics, Simulation and Optimization: 8,0
-
-Advanced Topics in Computational Semantics (elective): 9,0
-
-Computational Dialogue Modelling (elective): 9,0
+* Data Systems Project: 8,5	
+* Fundamentals of Data Science: 7,5	
+* Statistics, Simulation and Optimization: 8,0
+* Advanced Topics in Computational Semantics (elective): 9,0
+* Computational Dialogue Modelling (elective): 9,0
 
 # MSc Artificial Intelligence
 
-Machine Learning 1: 7,5	
-
-Computer Vision 1: 9,0
-
-Natural Language Processing 1: 7,0
-Information Retrieval 1: 8,0		
-Symbolic Systems 1: 8.5
-Advanced Topics in Computational Semantics: 9,0	
-Computational Dialogue Modelling: 9,0		
+* Machine Learning 1: 7,5	
+* Computer Vision 1: 9,0
+* Natural Language Processing 1: 7,0
+* Information Retrieval 1: 8,0		
+* Symbolic Systems 1: 8.5
+* Advanced Topics in Computational Semantics: 9,0	
+* Computational Dialogue Modelling: 9,0		
