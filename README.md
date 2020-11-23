@@ -13,6 +13,8 @@ Folder structure:
 	Natural Language Processing 1
 	Computational Dialogue Modelling
 ```
+# Grade Transcript
+[```A transcript of my grades so far can be found here```](https://github.com/asnijders/relevantAIprojects/blob/master/Transcript%20A.%20Snijders.pdf).
 
 # Project Descriptions
 In the folder [```Advanced Topics in Computational Semantics```](https://github.com/asnijders/relevantAIprojects/tree/master/Advanced%20Topics%20in%20Computational%20Semantics) you can find an individual programming assignment I worked on for the advanced AI course Advanced Topics in Computational Semantics. Final course grade: 9.
@@ -28,25 +30,3 @@ In the folder [```Symbolic Systems 1```](https://github.com/asnijders/relevantAI
 In the folder [```Natural Language Processing 1```](https://github.com/asnijders/relevantAIprojects/tree/master/Natural%20Language%20Processing%201) you can find two programming assignments, plus a report, which I collaborated on with another student, for the AI course Natural Language Processing 1, for wich we received a grade of 8.2
 
 In the folder [```Computational Dialogue Modelling```](https://github.com/asnijders/relevantAIprojects/tree/master/Computational%20Dialogue%20Modelling) you'll find a paper review, which I wrote for the ongoing AI/Logic course Computational Dialogue Modelling, for which I received a grade of 8.5, and a group report for the main research project of the course, for which we received a 9.
-
-# Grade list (23/11/2020)
-
-# MSc: Artificial Intelligence
-
-* Machine Learning 1: 7.5	
-* Computer Vision 1: 9.0
-* Natural Language Processing 1: 7.0
-* Information Retrieval 1: 8.0		
-* Symbolic Systems 1: 8.5
-* Advanced Topics in Computational Semantics: 9.0	
-* Computational Dialogue Modelling: 9.0	
-
-# MSc: Information Studies
-
-* Applied Machine Learning: 7.5	
-* Big Data: 8.0	
-* Data Systems Project: 8.5	
-* Fundamentals of Data Science: 7.5	
-* Statistics, Simulation and Optimization: 8.0
-* Advanced Topics in Computational Semantics (elective): 9.0
-* Computational Dialogue Modelling (elective): 9.0	
