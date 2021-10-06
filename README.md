@@ -14,7 +14,7 @@ Folder structure:
 	Computational Dialogue Modelling
 ```
 # Grade Transcript
-[```A transcript of my grades so far can be found here.```](https://github.com/asnijders/relevantAIprojects/blob/master/Transcript%20A.%20Snijders-2.pdf)
+[```A transcript of my most recent grades so far can be found here.```](https://github.com/asnijders/relevantAIprojects/blob/master/transcript%20-%2012854913.pdf)
 
 # Project Descriptions
 In the folder [```Advanced Topics in Computational Semantics```](https://github.com/asnijders/relevantAIprojects/tree/master/Advanced%20Topics%20in%20Computational%20Semantics) you can find an individual programming assignment I worked on for the advanced AI course Advanced Topics in Computational Semantics. Final course grade: 9.
